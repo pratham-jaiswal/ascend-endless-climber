@@ -25,6 +25,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
 
 # Gradle cache directory
 .gradle/
@@ -51,11 +52,14 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
 
 # Builds
+/Ascend-v*
+/[Bb]uilds
 *.apk
 *.aab
 *.unitypackage
@@ -70,3 +74,24 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+/Assets/Samples
+
+# Unused Assets
+# /[Aa]ssets/[Ss]prites/BayatGames/
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Backgrounds/
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Chests/
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Coin Animation/
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Demo/
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Enemies/
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Environments/
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Preview/
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Tiles/2.5D*/
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Tiles/2D*/Autumn/
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Tiles/2D*/Winter/
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Tiles/2D*/Spring/256x256/
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Tiles/2D*/Spring/512x512/
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Tiles/2D*/Spring/128x128/*
+!/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Tiles/2D*/Spring/128x128/Grass.png
+/[Aa]ssets/[Ss]prites/BayatGames/Free Platform Game Assets/Water*/
