@@ -1,5 +1,3 @@
-<iframe frameborder="0" src="https://itch.io/embed/2411481?bg_color=74007e&amp;fg_color=ffffff&amp;link_color=eeff11&amp;border_color=959595" width="552" height="167"><a href="https://maxx-devs.itch.io/ascend">Ascend - 2D Endless Climber by maxx-devs</a></iframe>
-
 # Ascend - 2D Endless Climber
 Hey there, climber! Welcome to **Ascend**, a simple 2D endless climbing game that's all about pushing past your limits. Your mission, if you choose to accept it, is to challenge yourself to reach new heights. Can you handle the climb? The controls are simple, so it's just you against gravity. The underlying question persists: Are you quick enough to break records? That's right, you're not just climbing; you're setting new standards. So, lace up those virtual climbing shoes, get ready for the challenge, and let's see if you've got what it takes to Ascend!
 
